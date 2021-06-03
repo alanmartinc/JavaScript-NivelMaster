@@ -45,3 +45,5 @@ console.log(await);
 
 // Números Octañes con una "o" adelante y no existe With
 console.log(0o25);
+
+// 53:19
